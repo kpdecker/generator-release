@@ -8,8 +8,8 @@
     "npm",
     "release"
   ],
-  "homepage": "https://github.com/walmartlabs/generator-release",
-  "bugs": "https://github.com/walmartlabs/generator-release/issues",
+  "homepage": "https://github.com/kpdecker/generator-release",
+  "bugs": "https://github.com/kpdecker/generator-release/issues",
   "author": {
     "name": "Kevin Decker",
     "email": "kpdecker@incaseofstairs.com",
@@ -18,7 +18,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/walmartlabs/generator-release.git"
+    "url": "git://github.com/kpdecker/generator-release.git"
   },
   "scripts": {
     "test": "mocha"
